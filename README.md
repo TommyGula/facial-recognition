@@ -4,11 +4,11 @@ I tried not to use "facial_recognition" package because I wanted to build the mo
 
 *How to use it?*
 
-1) Type python camera.py -l (your label name)
+1) Type python camera.py -l (your label name): This will open your webcam. By pressing "s" it will take a picture that will be saved for training. Press "q" to close the webcam.
 
-ARGUMENTS:
+    ARGUMENTS:
 
--l : LABEL --> This is a required arg. It's also the folder name where following images will be saved
+    -l : LABEL --> This is a required arg. It's also the folder name where following images will be saved
 
 2) Type python train_model.py: the model will be trained with the images previously taken
 
