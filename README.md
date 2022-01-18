@@ -12,4 +12,4 @@ I tried not to use "facial_recognition" package because I wanted to build the mo
 
 2) Type python train_model.py: the model will be trained with the images previously taken
 
-3) Type python facial_recognition.py: It will open your webcam, and it will show the labeled prediction once it is recognised
+3) Type python face_recognition.py: It will open your webcam, and it will show the labeled prediction once it is recognised
